@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "api-firebase-9ba3c": {
+      "hosting": {
+        "argon-dashboard-angular": [
+          "api-firebase-9ba3c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "api-firebase-9ba3c"
+  }
+}
